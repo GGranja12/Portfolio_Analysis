@@ -1,4 +1,4 @@
-# Portfolio_Analysis
+# Portfolio Analysis
 ![image](https://github.com/user-attachments/assets/b17fe46f-81b1-4437-9865-d0299ee2ce5b)
 
 ## The challenge
